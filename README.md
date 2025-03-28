@@ -140,7 +140,7 @@ At home view all the other views icons will be available .
 
 ### project Dashboard
 
-![Overall Report.gif](https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/videogif.gif)
+![Overall Report.gif](https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/conversions_67e6759bc811486f2833bd6e_conversion_V1.gif)
 
 
      
