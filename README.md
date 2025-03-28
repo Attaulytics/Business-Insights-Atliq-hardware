@@ -142,6 +142,34 @@ At home view all the other views icons will be available .
 
 ![Overall Report.gif](https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/conversions_67e6759bc811486f2833bd6e_conversion_V1.gif)
 
+## Finance view
+
+ <img src="https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/finance.png">
+
+## Suply chain view
+
+ <img src="https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/supply%20chain.png">
+ 
+## Sales view
+<img src="https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/sales%20page.png">
+
+## Marketing view
+
+<img src="https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/marketing.png">
+
+## Executive view
+
+<img src="https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/executive.png">
+
+
+
+
+
+
+
+
+
+
 
      
   
