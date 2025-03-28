@@ -119,6 +119,28 @@ Fact table : It will have the data about the transactions
         - Has the details of pre invoice deductions percentage for each cutomer with year
     - Post_invoice_deductions
         - Post invoice deductions and other deductions details
+
+ ## Data Model
+ - Here is the model of the whole project which is designed in power bi to connect all the tables with each other and snowflake schema is used in it
+
+   <img src="https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/model%20view.png">
+
+### Dashboard design
+
+## Home 
+At home view all the other views icons will be available .
+- user will land on that page view by using those icons
+- the icons are following
+
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+
+### project Dashboard
+
+
      
   
 
