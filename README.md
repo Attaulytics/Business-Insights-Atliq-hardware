@@ -1,5 +1,9 @@
 # Business-Insights-Atliq-hardware
 
+## Full project in Google Drive
+
+[Download Project](https://drive.google.com/file/d/1y22Vb0JRslyoh3KyTOy-6t_VzYEVqlA_/view?usp=drive_link)
+
 ## Project ovrview 
 
   AtliQ Hardware has grown rapidly in recent years and is now adopting Power BI for data analytics to gain a competitive edge. This initiative will provide stakeholders with actionable insights                       across finance, sales, marketing, and supply chain, enabling data-driven decisions, optimizing operations, and driving strategic growth in the market.
