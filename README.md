@@ -144,7 +144,7 @@ At home view all the other views icons will be available .
 
 ### project Dashboard
 
-![Overall Report.gif]()
+![Overall Report.gif](https://github.com/Attaulytics/Business-Insights-Atliq-hardware/blob/main/dashboard.gif)
 
 ## Finance view
 
